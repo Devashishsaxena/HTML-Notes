@@ -1,0 +1,4 @@
+Table Tags
+<thead> -> <th>
+<tbody> -> <td>
+<table Row> -> <tr>

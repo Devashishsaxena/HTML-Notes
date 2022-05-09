@@ -1,0 +1,8 @@
+1. Bold -> <b> , <strong>
+2. Italic -> <i> , <em>
+3. Underline -> <u> ,<ins>
+4. Strike Out -> <s> , <del>
+5. Small Text -> <small>
+6. Super Script -> <sup>
+7. Subcript -> <mark>
+8. Quotation -> <blockquote>
